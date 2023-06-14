@@ -1,0 +1,25 @@
+body
+{
+text-align: center;
+
+}
+.filmesHead{
+    font-size: 20px;
+    padding:6px 22px;
+    border-radius:10px ;
+    margin-bottom: 15px;
+}
+
+.filmesHead i{
+float: right;
+}
+.filmesHead fa-film{
+    float: left;
+    margin: top 4px; 
+    }
+    
+    .fa-star
+    {
+color: yellow;
+
+    }
